@@ -1,4 +1,5 @@
-escola: joao de faria pioli
+escola: Colegio estadual Joao de faria pioli
+
 
 
 nome: anna julia e eloysa

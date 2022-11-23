@@ -2,7 +2,7 @@ escola: Colegio estadual Joao de faria pioli
 
 
 
-nome: anna julia e eloysa
+nome: anna julia linhares da silva e Eloysa eduarda da silva fantin
 
 
 
